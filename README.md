@@ -1,62 +1,23 @@
-# PayPal Developer Docs Example Code
+#vacancy #Moscow #fulltime #tester
 
-Examples from the official [PayPal Developer Docs](https://developer.paypal.com/).
+NPP "Digital Solutions" - a developer, manufacturer and supplier (b2b) of telecommunications equipment, strengthens the testing team and is looking for a tester with a desire to develop in the direction of equipment testing.
 
-## Introduction and Overview
+Tasks:Test telecommunications equipment; Apply test design practices when testing the functions of telecommunications equipment;
+Participate in the development and updating of the network equipment testing plan; Develop functional tests of network equipment and test scenarios for its application; 
 
-This repository contains two directories:
+Carry out load and functional testing of network equipment using Sprint and Xinertel test suites;Test graphical (WEB) and text (CLI) interface of network equipment; Our expectations for the candidate:Knowledge in telecommunications and networks (TCP/IP stack, switching, routing)Knowledge of testing theory;
 
-- [Standard integration](./standard-integration/)
-  - Set up standard payments on your checkout page for your buyers.
-- [Advanced integration](./advanced-integration/)
-  - Build and customize a card payment form to accept debit and credit cards.
+High learning ability and susceptibility to new things;English at the level of reading technical documentation; Higher technical education, possibly final year students.
 
-**Not sure where to start?** Choose the [standard integration](./standard-integration/).
+We offer:Work in the office 5/2 (m.Avis motorways), the beginning of the working day is flexible (from 08:00 to 11:00 you can start working);
+The level of income based on the results of the interview and based on the wishes of the candidate;
+Bonuses for closing the stages of projects and the projects themselves;
+Registration in accordance with the Labor Code of the Russian Federation;
+Accreditation of an IT company with a deferment from military service;
+VHI, corporate discounts for a subscription to a fitness club.
 
-### The PayPal JavaScript SDK
-
-These examples use the [PayPal JavaScript SDK](https://developer.paypal.com/sdk/js/) to display PayPal supported payment methods and provide a seamless checkout experience for your buyers.
-
-The SDK has several [configuration options](https://developer.paypal.com/sdk/js/configuration/) available. The examples in this repository provide the most minimal example possible to complete a successful transaction.
-
-## Know before you code
-
-### Setup a PayPal Account
-
-To get started with standard checkout, you'll need a developer, personal, or business account.
-
-[Sign Up](https://www.paypal.com/signin/client?flow=provisionUser) or [Log In](https://www.paypal.com/signin?returnUri=https%253A%252F%252Fdeveloper.paypal.com%252Fdeveloper%252Fapplications&intent=developer)
-
-You'll then need to visit the [Developer Dashboard](https://developer.paypal.com/dashboard/) to obtain credentials and to
-make sandbox accounts.
-
-### Create an Application
-
-Once you've setup a PayPal account, you'll need to obtain a **Client ID** and **Secret**. [Create a sandbox application](https://developer.paypal.com/dashboard/applications/sandbox/create).
-
-### Have Node.js installed
-
-These examples will ask you to run commands like `npm install` and `npm start`.
-
-You'll need a version of node >= 16 which can be downloaded from the [Node.js website](https://nodejs.org/en/download/).
-
-
-## PayPal Codespaces 
-
-PayPal codespaces require a client ID and client secret for your app. 
-
-### Link to codespaces 
-
-| Application | Codespaces Link |
-| ---- | ---- |
-| Advanced Integration | [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypal-examples/docs-examples?devcontainer_path=.devcontainer%2Fadvanced-integration%2Fdevcontainer.json)|
-| Standard Integration | [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypal-examples/docs-examples?devcontainer_path=.devcontainer%2Fstandard-integration%2Fdevcontainer.json)|
-
-### Learn more 
-
-You can read more about codespaces in the [PayPal Developer Docs](https://developer.paypal.com/api/rest/sandbox/codespaces).
-
-## Submit Feedback 
-
-* To report a bug or suggest a new feature, create an [issue in GitHub](https://github.com/paypal-examples/paypaldevsupport/issues/new/choose). 
-* To submit feedback, go to [GitHub Codespaces](https://developer.paypal.com/api/rest/sandbox/codespaces) and select the "Feedback" tab.
+Contacts can be contacted:
+Fomina Ekaterina
++7 (915) 7424771
+TG: @kate_4mina
+Email: fomina@dsol.ru
